@@ -372,16 +372,16 @@ li {
     position: relative;
 }
 
-/* .about-section h2::after {
+.about-section h2::after {
     position: absolute;
     content: "";
     top: 60px;
-    left: 400px;
+    left: 50%;
     width: 80px;
     height: 2px;
     background: #3F87F5;
     transform: translate(-50%);
-} */
+}
 
 .about-section p {
     color: #242424;

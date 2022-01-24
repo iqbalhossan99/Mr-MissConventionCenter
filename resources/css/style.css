@@ -355,6 +355,11 @@ li {
     background: #E5E5E5;
 }
 
+.gift-icon {
+    font-size: 20px;
+
+}
+
 .inner-img img {
     width: 100%;
 }

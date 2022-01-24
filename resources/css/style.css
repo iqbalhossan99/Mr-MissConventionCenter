@@ -355,13 +355,13 @@ li {
     background: #E5E5E5;
 }
 
-.gift-icon {
-    font-size: 20px;
-
-}
-
 .inner-img img {
     width: 100%;
+}
+
+.inner-img .about-img {
+    top: 15px;
+    left: 27px
 }
 
 .inner-img .about-img img {
@@ -387,10 +387,17 @@ li {
     color: #242424;
 }
 
-.inner-img .about-img {
-    top: 15px;
-    left: 27px
+.about-text .toast-btn {
+    background: #ffffff;
+    border-left: 10px solid #5293F6;
 }
+
+.gift-icon {
+    font-size: 25px;
+    color: #5293F6;
+}
+
+
 
 /* --------------------------------
     package-section
